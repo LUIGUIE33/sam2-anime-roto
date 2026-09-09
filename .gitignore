@@ -1,0 +1,18 @@
+# Dependencia grande (SAM 2 clonado) y datos
+sam2-main/
+
+# Resultados y clips de trabajo (muy pesados)
+anime_roto_data/
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Misc
+Thumbs.db
+*.log
